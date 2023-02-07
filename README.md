@@ -1,16 +1,20 @@
-# flutter_localization
+# Hi, I'm NASEER! 👋
+# Flutter- Localization and Internationalizatio
 
-A new Flutter project.
+Flutter localization and internationalization (i18n) is the process of adapting an app to different languages and locales. This involves translating text, formatting numbers and dates, and adapting the app's layout to better suit the target language. The Flutter framework provides support for internationalization through the flutter_localizations package and the intl package and many others different pakages. These packages provide widgets and classes for managing localized strings and other resources, as well as formatting numbers and dates for display.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@Muhammad Naseer](https://www.github.com/naseerz)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots
+<p float="left">
+  <img src="https://github.com/naseerx/flutter_localization/blob/master/ss/0.png" width="300" />....
+  <img src="https://github.com/naseerx/flutter_localization/blob/master/ss/00.png" width="300" /> 
+</p>
+
+
